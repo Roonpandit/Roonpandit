@@ -1,33 +1,48 @@
-# Hi there, I'm [Ankit] 👋
+# Hi there, I'm Tarun 👋
 
-Welcome to my GitHub profile! I'm a [Frontend Developer] with a passion for [User Friendly Interface].
+Welcome to my GitHub profile! I'm a **Frontend Web Developer** with a strong foundation in modern web technologies and a passion for creating **user-friendly interfaces**.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: [e.g., JavaScript, etc.]
-- **Frameworks**: [e.g., React, etc.]
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React, Redux, Node.js
+- **Databases**: MongoDB
+- **Version Control**: Git, GitHub
 
 ## 🌱 Currently Learning
 
-- [e.g., React,Next.js etc.]
-
-## 📫 How to Reach Me
-
-- **Email**: [khairwalankit7@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/ankit-khairwal-85a10a2a7/)
-- **Portfolio**: [https://portfolio-silk-beta-93.vercel.app/)
+- Next.js
+- Advanced React Patterns
+- Performance Optimization Techniques
 
 ## 🚀 Projects
 
-Here are a few projects I've worked on:
+### [Yogaverse](https://yogaverse.netlify.app/) ([GitHub](https://github.com/Roonpandit/YogaVerse))
+- Integrated Firebase for secure authentication and Firestore for data storage.
+- Developed an admin panel for user moderation and content control.
+- Enabled personalized user profiles and privacy features.
+- Implemented yoga session tracking with goal setting.
 
-1. *Crime Management*:(https://crimepetrol.netlify.app/)
-2. *Auth,Login,Register Page*:(https://login-lac-two.vercel.app/)
-3. *Usability Hub*:(https://my-website-beige-delta.vercel.app/)
+### [Calorie Tracker](https://calculatecalorie.netlify.app/) ([GitHub](https://github.com/Roonpandit/KCAL))
+- Implemented authentication and a dynamic QR code scanning feature.
+- Enabled users to create and manage diet plans with Redux.
+- Ensured responsive UI and optimized performance across devices.
 
-## 🎉 Fun Facts
+### [Lease Ease](https://lease-ease.netlify.app/) ([GitHub](https://github.com/Roonpandit/LeaseEase))
+- Integrated communication features between tenants and landlords.
+- Developed components for reporting maintenance issues and tracking rent payments.
+- Created a responsive design for seamless access across devices.
 
-- I love [hobbies or interests, e.g., hiking, gaming, etc.].
-- I'm a fan of [movies, series, etc.].
+## 🏆 Achievements & Certifications
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or just chat!
+- **Masai Speaking Marathon** – Masai School
+- **Merit Certificate in NSS** – National Service Scheme
+
+## 📫 How to Reach Me
+
+- **Email**: [tarunvashisth0000@gmail.com](mailto:tarunvashisth0000@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tarun-vashisth](https://www.linkedin.com/in/tarun-vashisth/)
+- **GitHub**: [github.com/Roonpandit](https://github.com/Roonpandit)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration or networking!
+
